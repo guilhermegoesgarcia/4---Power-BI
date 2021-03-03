@@ -1,0 +1,15 @@
+SUBSTITUIR O QUE ESTA EM ASPAS:
+
+
+https://api.trello.com/1/boards/"ID DOCUMENTO JASON"/cards?key="API DE DESENVOLVEDOR TRELLO"&token="TOKEN PESSOAL DO TRELO"
+
+
+
+
+OBS1: É NECESSARIO ANTES ACEITAR O ACESSO VIA API
+
+OBS2: cards, lists,members  -> são alterados no link (antes do ?key=)
+
+OBS3: Os dados devem ser tratados em apresentar tabela
+
+
